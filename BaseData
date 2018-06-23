@@ -2,7 +2,7 @@
   "channels" : [
     {
       "title" : "다해요",
-      "fbNativeInterval" : "3",
+      "fbNativeInterval" : "4",
       "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
